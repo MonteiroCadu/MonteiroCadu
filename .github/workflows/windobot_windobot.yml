@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'windobot'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D7C2F23AD7DB4FC6A56FA64D86330A39 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4C4BCEE8AA9F4FDAA33E92734E446733 }}
           package: .
